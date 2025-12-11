@@ -7,8 +7,8 @@ A modern, beautiful, and fully-functional Todo application optimized for iPhone 
 - 🔐 **Simple Authentication**: Login/Signup stored in localStorage
 - ✅ **Todo Management**: Create, edit, delete, and toggle todos
 - 🎨 **Beautiful UI**: Modern glassmorphism design with smooth animations
-- 📱 **Mobile-First**: Optimized for iPhone 14 Pro Max (430x932px)
-- 🔔 **Daily Reminders**: Receive notifications at 9 AM for todos due today
+- 📱 **Mobile-First**: Optimized for iPhones
+- 🔔 **Daily Reminders**: Receive notifications at 6 AM for todos due today
 - 💾 **Local Storage**: All data persists in your browser
 - 🌙 **Dark Mode**: Built-in dark theme support
 
